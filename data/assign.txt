@@ -1,0 +1,36 @@
+a,stand
+b,sit
+c,walk
+d,run
+e,not yet assigned
+f,not yet assigned
+g,not yet assigned
+h,not yet assigned
+i,not yet assigned
+j,not yet assigned
+k,not yet assigned
+l,not yet assigned
+m,not yet assigned
+n,not yet assigned
+o,not yet assigned
+p,not yet assigned
+q,not yet assigned
+r,not yet assigned
+s,not yet assigned
+t,not yet assigned
+u,not yet assigned
+v,not yet assigned
+w,not yet assigned
+x,exit
+y,not yet assigned
+z,not yet assigned
+0,not yet assigned
+1,not yet assigned
+2,not yet assigned
+3,not yet assigned
+4,not yet assigned
+5,not yet assigned
+6,not yet assigned
+7,not yet assigned
+8,not yet assigned
+9,not yet assigned
